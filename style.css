@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+.container{
+    width: 80%;
+    background-color: #ffffff;
+    height: auto;
+    margin: 30px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.left{
+    background: #FFE6C9;
+}
+.left h6{
+    color: #73114B;
+    font-family: Nunito Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.left p{
+    color: #73114B;
+
+font-family: Nunito Sans;
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.svg{
+    float: right;
+}
