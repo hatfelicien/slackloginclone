@@ -38,3 +38,44 @@ line-height: normal;
 .svg{
     float: right;
 }
+.right{
+
+    margin: 30px auto;
+}
+.butt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: 1px solid #E8E8E8;
+    gap: 13px;
+    padding: 10px;
+}
+.Form input{
+    width: 420px;
+    padding: 18px 10px 13px 10px;
+    align-items: center;
+}
+.texts h4{
+    color:#525252;
+    font-size: 30px;
+}
+.Login{
+    width: 420px;
+    padding: 18px 10px 13px 10px;
+    background-color: #73114B;
+    border: none;
+    color: white;
+}
+.divider{
+    justify-content: center;
+    align-items: center;
+}
+.last{
+    margin:28px auto;
+
+}
+.last a{
+    color: #73114B;
+    text-decoration: none;
+}
